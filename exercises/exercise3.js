@@ -5,6 +5,8 @@ TODO: Create two arrow functions.
  - The second function mult3 should take in three parameters and
    return their product
 */
+const helloWorld = () => console.log("Hello world!");
+const mult3 = (x, y, z) => x*y*z;
 
 
 // Run the file and use this to check your work
